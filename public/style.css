@@ -1,0 +1,41 @@
+@media (min-width:600px){
+    .rootcard{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  
+  .pcard{
+      max-width: 200px;
+      margin: 0px;
+  }  
+  .pad{
+    padding: 5px;
+  }
+  .ig{
+    width: 40vw;
+    height: 40vh;
+  }
+  .ig3{
+    width:100vw;
+    height: 100;
+  }
+  .np{
+    margin-left: 20px;
+    color:deeppink;
+  }
+  }
+  
+  
+  .authcard{
+    margin: 10px auto !important;
+    max-width: 500px !important;
+    padding: 10px;
+  }
+  input:focus{
+    border-bottom: 1px solid #1565c0 !important;
+    box-shadow: 0 1px 0 0 #1565c0 !important;
+  }
+   .brand-logo  {
+    color:deeppink;
+}
